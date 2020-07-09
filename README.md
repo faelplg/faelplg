@@ -21,8 +21,8 @@
 <!-- Current activities -->
 ## Hi there 👋
 
-- 🔭 I’m currently working on my own portal, with updated portfolio, microblog posts, creative coding projects, and technology studies.
-- 🌱 I’m currently learning advanced React structures on different stacks.
+- 🔭 I’m currently working on my own portal, implementing a portfolio gallery, microblog posts, creative coding projects, and technology studies.
+- 🌱 I’m also learning advanced React structures on different stacks.
 
 <!-- Bio -->
 ## About me
