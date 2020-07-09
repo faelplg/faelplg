@@ -1,18 +1,18 @@
 <!-- Banner -->
-[![Cover](/assets/header.png)](https://fael.tech)
+[![Cover](https://drive.google.com/uc?id=1QWFaoVL_4wPnSoiqP7UkcJWW7Ddr714P)](https://fael.tech)
 
 <!-- Title -->
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://fael.tech">fael.tech</a>
-</h1>
+</h1> -->
 
 <!-- Social -->
 <p>
   <a aria-label="Follow @faelplg on Twitter" href="https://twitter.com/intent/follow?screen_name=faelplg" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/faelplg.svg?style=flat-square&label=Follow%20%40faelplg&logo=TWITTER&logoColor=FFFFFF&labelColor=1da1f2&logoWidth=15&color=lightgray">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/faelplg.svg?style=flat-square&label=Follow%20%40faelplg&logo=TWITTER&logoColor=FFFFFF&labelColor=1da1f2&logoWidth=15&color=666666">
   </a>
   <a aria-label="Follow @faelplg on Twitter" href="https://twitter.com/intent/follow?screen_name=faelplg" target="_blank">
-    <img alt="GitHub Follow" align="right" src="https://img.shields.io/github/followers/faelplg?style=flat-square&label=Follow%20%40faelplg&logo=GITHUB&logoColor=FFFFFF&labelColor=222222&logoWidth=15&color=lightgray">
+    <img alt="GitHub Follow" align="right" src="https://img.shields.io/github/followers/faelplg?style=flat-square&label=Follow%20%40faelplg&logo=GITHUB&logoColor=FFFFFF&labelColor=222222&logoWidth=15&color=666666">
   </a>
 </p>
 
