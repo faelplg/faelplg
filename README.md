@@ -27,7 +27,7 @@
 <!-- Bio -->
 ## About me
 
-Experienced product developer of technology-based solutions within the software industry, with strengths in strategic management, process-oriented management, solution architectures, and user experience. Achieved extensive technical knowledge within the software development area, starting my career in full-stack development and, over time, specializing in web development and user experience.
+Experienced product developer of technology-based solutions within the software industry, with strengths in strategic management, process-oriented management, solution architectures, and user experience engineering. Successful in developing a technology that has resulted in an over 40% increase in the operational efficiency of waste collection companies.
 
 Currently working as a manager in the elaboration, implementation, and monitoring of the strategic planning and IT governance. Implemented performance measurements primarily based on the Balanced Scorecard methodology for strategic management. Achieved service-oriented operations through the implementation of Business Process Management.
 
