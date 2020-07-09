@@ -9,7 +9,7 @@
 <!-- Social -->
 <p>
   <a aria-label="Follow @faelplg on Twitter" href="https://twitter.com/intent/follow?screen_name=faelplg" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/faelplg.svg?style=flat-square&label=Follow%20%40faelplg&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=15&color=lightgray">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/faelplg.svg?style=flat-square&label=Follow%20%40faelplg&logo=TWITTER&logoColor=FFFFFF&labelColor=1da1f2&logoWidth=15&color=lightgray">
   </a>
   <a aria-label="Follow @faelplg on Twitter" href="https://twitter.com/intent/follow?screen_name=faelplg" target="_blank">
     <img alt="GitHub Follow" align="right" src="https://img.shields.io/github/followers/faelplg?style=flat-square&label=Follow%20%40faelplg&logo=GITHUB&logoColor=FFFFFF&labelColor=222222&logoWidth=15&color=lightgray">
