@@ -7,12 +7,12 @@
 </h1> -->
 
 <!-- Social -->
-<p>
+<p align="center">
   <a aria-label="Follow @faelplg on Twitter" href="https://twitter.com/intent/follow?screen_name=faelplg" target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/faelplg.svg?style=flat-square&label=Follow%20%40faelplg&logo=TWITTER&logoColor=FFFFFF&labelColor=1da1f2&logoWidth=15&color=666666">
   </a>
   <a aria-label="Follow @faelplg on Twitter" href="https://twitter.com/intent/follow?screen_name=faelplg" target="_blank">
-    <img alt="GitHub Follow" align="right" src="https://img.shields.io/github/followers/faelplg?style=flat-square&label=Follow%20%40faelplg&logo=GITHUB&logoColor=FFFFFF&labelColor=222222&logoWidth=15&color=666666">
+    <img alt="GitHub Follow" src="https://img.shields.io/github/followers/faelplg?style=flat-square&label=Follow%20%40faelplg&logo=GITHUB&logoColor=FFFFFF&labelColor=222222&logoWidth=15&color=666666">
   </a>
 </p>
 
