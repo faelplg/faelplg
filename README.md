@@ -19,13 +19,13 @@
 ---
 
 <!-- Current activities -->
-## Hi there 👋
+<!-- ## Hi there 👋
 
 - 🔭 I’m currently working on my own portal, implementing a portfolio gallery, microblog posts, creative coding projects, and technology studies.
-- 🌱 I’m also learning advanced React structures on different stacks.
+- 🌱 I’m also learning advanced React structures on different stacks. -->
 
 <!-- Bio -->
-## About me
+<!-- ## About me
 
 Experienced product developer of technology-based solutions within the software industry, with strengths in strategic management, process-oriented management, solution architectures, and user experience engineering. Successful in developing a technology that has resulted in an over 40% increase in the operational efficiency of waste collection companies.
 
@@ -33,8 +33,8 @@ Currently working as a manager in the elaboration, implementation, and monitorin
 
 As a specialist, I am working with interaction architectures of front-end applications, software requirements, and user experience engineering. As a web developer, I am covering everything from the implementation of simple sites to the production of very complex applications. I love to work with micro-interactions and layout architectures, as well as creative coding.
 
-I am currently complementing my career with projects and studies in the Cybersecurity area, highlighting the fields of data security policies, ethical hacking, hardware hacking, and computer forensics.
+I am currently complementing my career with projects and studies in the Cybersecurity area, highlighting the fields of data security policies, ethical hacking, hardware hacking, and computer forensics. -->
 
 <!-- Technologies -->
-## Tech skills:
-[JavaScript] [ES6+] [nodejs/npm] [HTML] [CSS 2.1/3] [Framework integration] [Database modeling] [REST APIs] [DevOps] [Babel] [Webpack] [Gulp] [Bower] [Data-driven documents] [Infrastructure] [Arduino]
+<!-- ## Tech skills:
+[JavaScript] [ES6+] [nodejs/npm] [HTML] [CSS 2.1/3] [Framework integration] [Database modeling] [REST APIs] [DevOps] [Babel] [Webpack] [Gulp] [Bower] [Data-driven documents] [Infrastructure] [Arduino] -->
