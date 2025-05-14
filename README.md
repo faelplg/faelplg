@@ -35,7 +35,7 @@ I began my career as a Full-Stack Developer, specializing in web development and
 
 Currently, I lead the strategic planning and IT governance of a 50-person team. I have experience with methodologies like Balanced Scorecard, Process Management, Project Management, OKRs, and Scrum. I strive to implement service-oriented operations with well-defined processes, promoting fluid and understandable business process management for teams and stakeholders.
 
-Driven by curiosity and a desire to evolve, I am exploring the field of cybersecurity. I study intensively, apply my knowledge within the company, and continuously seek new challenges to expand my expertise and contribute innovative solutions in the technological landscape. -->
+Driven by curiosity and a desire to evolve, I am exploring the field of cybersecurity. I study intensively, apply my knowledge within the company, and continuously seek new challenges to expand my expertise and contribute innovative solutions in the technological landscape.
 
 <!-- Technologies -->
 ## Tech skills:
