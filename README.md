@@ -19,7 +19,7 @@ Brazilian, CTO at Aurum. 12+ years in software development, 8+ in tech leadershi
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 # GitHub Stats:
 
@@ -39,8 +39,8 @@ Brazilian, CTO at Aurum. 12+ years in software development, 8+ in tech leadershi
 
 ![](https://github-profile-trophy.vercel.app/?username=faelplg&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[//]: #  ## Top Contributed Repo
+## Top Contributed Repo
 
-[//]: # ![](https://github-contributor-stats.vercel.app/api?username=faelplg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=faelplg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
