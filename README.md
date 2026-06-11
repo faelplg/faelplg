@@ -20,22 +20,3 @@ Brazilian, CTO at Aurum. 12+ years in software development, 8+ in tech leadershi
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-# GitHub Stats:
-
-## Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faelplg&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## Summary and Stats
-
-![](https://github-readme-stats.vercel.app/api?username=faelplg&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-## Streak and Contributions
-
-![](https://nirzak-streak-stats.vercel.app/?user=faelplg&theme=synthwave&hide_border=true)<br/>
-
-##  GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=faelplg&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
