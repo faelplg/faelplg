@@ -1,6 +1,6 @@
 # About Me:
 
-Brazilian, CTO at Aurum. 12+ years in software development, 8+ in tech leadership. Background in web development (JS ecosystem), UX engineering, and digital product architecture. Focused on building scalable systems, creative coding, and information security. Bridging code, strategy, and impact.
+Brazilian, software engineer and former CTO at Aurum. Co-founded 2 companies. 15+ years in software development, 10+ in tech leadership. Background in web development (JS ecosystem), UX engineering, and digital product architecture. Focused on building scalable systems, creative coding, AI engineering, and information security. Bridging code, strategy, and impact.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faelplg/faelplg/output/github-snake-dark.svg" />
